@@ -125,7 +125,7 @@
     },
     {
         "entraTenantId": "d6906cd6-5fc7-4640-9960-5f355e6bdb5e",
-        "tenantDescription": "H \u0026 B REAL, a.s."
+        "tenantDescription": "Coleman"
     },
     {
         "entraTenantId": "73b39313-1d97-4ac4-bc26-f0ba6dc67f1a",
@@ -157,7 +157,7 @@
     },
     {
         "entraTenantId": "9b6d7421-b8c2-4856-ab4d-76af5cdd33b3",
-        "tenantDescription": "Konica Minolta ITS"
+        "tenantDescription": "Konica Minolta ITS (ALEELI)"
     },
     {
         "entraTenantId": "a643d3ef-6ede-4718-8965-47b51d0d5984",
@@ -296,19 +296,139 @@
         "tenantDescription": "MxB"
     },
     {
+        "entraTenantId": "2ecd5815-0eb9-4e9a-93be-ac58545cdca6",
+        "tenantDescription": "AXIMA_CZ"
+    },
+    {
+        "entraTenantId": "37e948ec-d110-4e6f-b67a-4cafe64c1ab3",
+        "tenantDescription": "Navitec"
+    },
+    {
+        "entraTenantId": "3f03a4a5-62d9-4897-8404-564e8f7bef0b",
+        "tenantDescription": "Paerk [NTC]"
+    },
+    {
+        "entraTenantId": "5ef5890d-c9a6-4c0c-9aab-69d1d5a6bc10",
+        "tenantDescription": "Hodinářství Bechyně"
+    },
+    {
+        "entraTenantId": "6b782d5f-cbaa-4f4e-a02e-b54f9f2960e9",
+        "tenantDescription": "VBH [Navertica]"
+    },
+    {
+        "entraTenantId": "6cb6ece4-dab2-4b10-b914-53c367dc7590",
+        "tenantDescription": "KMITS"
+    },
+    {
+        "entraTenantId": "6e0e0306-3d99-44c3-a739-1221166e8c5f",
+        "tenantDescription": "?Pulsar"
+    },
+    {
+        "entraTenantId": "7008e228-d504-4efb-96a6-599e9b19296c",
+        "tenantDescription": "Vitalo Life Science GmbH"
+    },
+    {
+        "entraTenantId": "7b8d7ebe-a23c-4992-8fa4-fce5886c7b75",
+        "tenantDescription": "?DxO Systems"
+    },
+    {
+        "entraTenantId": "85dc3af2-f428-4338-86bd-09e14490187b",
+        "tenantDescription": "?twd"
+    },
+    {
+        "entraTenantId": "953a1b33-932f-4175-9403-491271d02afb",
+        "tenantDescription": "Belinda CZ"
+    },
+    {
+        "entraTenantId": "aad92f80-78f0-4829-a663-5f93d97dcc15",
+        "tenantDescription": "Eurogreen"
+    },
+    {
+        "entraTenantId": "c84f9b23-0686-41e6-bcc1-d9fceaf99c7c",
+        "tenantDescription": "Lifepack Vit"
+    },
+    {
+        "entraTenantId": "d18c2b33-dc88-4c06-b71c-67a7ba3d83fe",
+        "tenantDescription": "SolSol"
+    },
+    {
+        "entraTenantId": "f97b6981-e782-49dd-9fd3-3e3753aece3b",
+        "tenantDescription": "?AMS/NESS"
+    },
+    {
+        "entraTenantId": "a8c1dc36-3c94-4118-8d5b-c153d2362bf6",
+        "tenantDescription": "ZZZ_QS03"
+    },
+    {
+        "entraTenantId": "91396ac3-c97d-4a57-a895-4dac5022707e",
+        "tenantDescription": "ZZZ_QS04"
+    },
+    {
+        "entraTenantId": "8aace5f7-d48d-451c-8649-94bf96817a28",
+        "tenantDescription": "ZZZ_QS05"
+    },
+    {
+        "entraTenantId": "736a7942-e5c4-460c-a745-d18ddc294f5c",
+        "tenantDescription": "ZZZ_QS06"
+    },
+    {
+        "entraTenantId": "72ed8d00-e7ac-4665-acc2-410a9efd7a68",
+        "tenantDescription": "ZZZ_QS07"
+    },
+    {
+        "entraTenantId": "5116d401-ad90-48f3-a466-7a4fc03788c6",
+        "tenantDescription": "ZZZ_QS08"
+    },
+    {
+        "entraTenantId": "2d69f4b4-7b0e-4184-8681-9a47aad739f4",
+        "tenantDescription": "ZZZ_QS10"
+    },
+    {
+        "entraTenantId": "2c8bf057-cfb4-4703-bf30-02d379f3da36",
+        "tenantDescription": "ZZZ_QS11"
+    },
+    {
         "entraTenantId": "149ec02b-dd91-4520-865e-c116832e8b64",
         "tenantDescription": "ZZZ_QS15"
+    },
+    {
+        "entraTenantId": "abdc2b08-26cd-435b-a00e-b3ff011481aa",
+        "tenantDescription": "ZZZ_QS17"
     },
     {
         "entraTenantId": "13f06db8-be5b-42a2-9a4a-e8931bae7bab",
         "tenantDescription": "ZZZ_QS18"
     },
     {
+        "entraTenantId": "b53ec166-3333-487d-be15-86d2d2238965",
+        "tenantDescription": "ZZZ_QS20"
+    },
+    {
         "entraTenantId": "16c27711-f687-41a8-95a9-cb2508f0d1ff",
         "tenantDescription": "ZZZ_QS21"
     },
     {
+        "entraTenantId": "5fd7c4df-dc21-4363-a6f9-9ce68ab5f569",
+        "tenantDescription": "ZZZ_QS22"
+    },
+    {
+        "entraTenantId": "6090daa3-6091-496c-a0a1-b0108471dcff",
+        "tenantDescription": "ZZZ_QS23"
+    },
+    {
+        "entraTenantId": "d8b53e96-217d-4cd4-bbee-6ac3e8e4f6ae",
+        "tenantDescription": "ZZZ_QS24"
+    },
+    {
         "entraTenantId": "1f94f815-00e4-42a9-b88f-79578390ed5a",
         "tenantDescription": "ZZZ_QS25"
+    },
+    {
+        "entraTenantId": "322d25a1-dd87-4cf0-8455-ee561b294b04",
+        "tenantDescription": "ZZZ_QS26"
+    },
+    {
+        "entraTenantId": "355d65b8-39cc-4ed6-a1ef-769db21d3367",
+        "tenantDescription": "ZZZ_QS27"
     }
 ]
