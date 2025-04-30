@@ -282,5 +282,33 @@
     {
         "entraTenantId": "665a1d5a-1a9c-410c-8f0a-b1d0348dc9bb",
         "tenantDescription": "České lupkové závody a.s."
+    },
+    {
+        "entraTenantId": "05c19625-82a9-4711-9062-185518cb3820",
+        "tenantDescription": "Ferticare"
+    },
+    {
+        "entraTenantId": "0fe53163-eacb-440a-be1e-056c0265070f",
+        "tenantDescription": "?Mezanin"
+    },
+    {
+        "entraTenantId": "2654ff3f-ff29-4ad6-ac8d-d775a28d977b",
+        "tenantDescription": "MxB"
+    },
+    {
+        "entraTenantId": "149ec02b-dd91-4520-865e-c116832e8b64",
+        "tenantDescription": "ZZZ_QS15"
+    },
+    {
+        "entraTenantId": "13f06db8-be5b-42a2-9a4a-e8931bae7bab",
+        "tenantDescription": "ZZZ_QS18"
+    },
+    {
+        "entraTenantId": "16c27711-f687-41a8-95a9-cb2508f0d1ff",
+        "tenantDescription": "ZZZ_QS21"
+    },
+    {
+        "entraTenantId": "1f94f815-00e4-42a9-b88f-79578390ed5a",
+        "tenantDescription": "ZZZ_QS25"
     }
 ]
