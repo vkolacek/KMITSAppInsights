@@ -364,6 +364,10 @@
         "tenantDescription": "Prague Port"
     },
     {
+        "entraTenantId": "5ecc3c70-74b0-4935-9b78-2ad3fdd00cf6",
+        "tenantDescription": "Harmonia Vini (Navertica)"
+    },
+    {
         "entraTenantId": "a8c1dc36-3c94-4118-8d5b-c153d2362bf6",
         "tenantDescription": "ZZZ_QS03"
     },
