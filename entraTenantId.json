@@ -376,6 +376,14 @@
         "tenantDescription": "VAFO Praha [???]"
     },
     {
+        "entraTenantId": "fe9d9ba6-8db6-4932-b4fd-f258a86e102c",
+        "tenantDescription": "Altron"
+    },
+    {
+        "entraTenantId": "91780c2a-01aa-493a-944f-0041b9d7379e",
+        "tenantDescription": "Altron Modular"
+    },
+    {
         "entraTenantId": "a8c1dc36-3c94-4118-8d5b-c153d2362bf6",
         "tenantDescription": "ZZZ_QS03"
     },
