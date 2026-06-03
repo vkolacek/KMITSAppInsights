@@ -392,6 +392,10 @@
         "tenantDescription": "PPF"
     },
     {
+        "entraTenantId": "356f70cc-fbac-4b38-b1e4-866635ebf959",
+        "tenantDescription": "MF Paper (Navertica)"
+    },
+    {
         "entraTenantId": "a8c1dc36-3c94-4118-8d5b-c153d2362bf6",
         "tenantDescription": "ZZZ_QS03"
     },
