@@ -400,6 +400,14 @@
         "tenantDescription": "Astron Print"
     },
     {
+        "entraTenantId": "46bc31ee-78b6-4ec7-a5d3-415a7433ae5d",
+        "tenantDescription": "Sonnentor"
+    },    
+    {
+        "entraTenantId": "0ae6abcd-89b2-4334-83c3-0b6e3cc65ae0",
+        "tenantDescription": "Dasgastro"
+    },
+    {
         "entraTenantId": "a8c1dc36-3c94-4118-8d5b-c153d2362bf6",
         "tenantDescription": "ZZZ_QS03"
     },
